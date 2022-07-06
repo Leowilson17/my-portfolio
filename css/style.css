@@ -100,15 +100,22 @@ a{
     padding-bottom: 20px;
     font-family: 'Open Sans', sans-serif;
 }
+.list li{
+    font-weight: 200;
+    line-height: 30px;
+    margin-left: 90px;
+    font-size: 20px;
+} 
 .job-style-2{
     font-size: 18px;
     padding-bottom: 18px;
     font-family: 'Open Sans', sans-serif;
 }
-li{
+.para-list{
+    margin-top: 15px;
     margin-left: 12px;
     line-height: 23px;
-    font-style: oblique;
+    font-size: 20px;
 }
 .sub-heading-3{
     padding-top: 25px;
@@ -121,7 +128,7 @@ li{
 }
  .ug-color{
     color:  #39B4ED;
-    font-size: 18px; 
+    font-size: 20px; 
      
 } 
 .certificate h3{
